@@ -1,0 +1,25 @@
+{
+  "name": "ap-notification",
+  "version": "1.0.0",
+  "description": "Custom notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apescaru/ap-notification.git"
+  },
+  "keywords": [
+    "notification",
+    "javascript",
+    "error"
+  ],
+  "author": "Andrei Alexandru Pescaru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apescaru/ap-notification/issues"
+  },
+  "homepage": "https://github.com/apescaru/ap-notification#readme"
+}
